@@ -1,2 +1,2 @@
 # BotTest
-if(a>b)
+if(a>c)
